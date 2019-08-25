@@ -1,0 +1,12 @@
+Forecasted annual consumption,400,,,,Annual consumption,6000,
+Standard deviation of demand per week,5,,,,Standard deviation of demand per week,200,
+Order quantity from supplier,100,,,,Service level (Demand Fill Fate),0.98,
+Lead time from supplier,3,weeks,,,Order quantity,500,
+Service level,0.95,,,,Lead time from supplier,4,weeks
+k,1.64485362695147,,,,,,
+safety stock,14.2448502644695,,,,,,
+ROP,37.3217733413926,,,,standard deviation during leadtime,400,
+NEW SS When the leadtime is ,6,weeks,,,Service function,0.025,
+,20.1452604379867,,,,Safety factor k,1.57,from the service function
+,,,,,SS,628,
+,0.414213562373095,,,,,,
